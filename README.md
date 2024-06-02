@@ -12,8 +12,8 @@ This repository serves as the main page for the Group Chat Application, with lin
 ## Description
 
 The Group Chat Application is built with:
-- **Backend:** Node.js, Express.js, MySQL, Sequelize ORM, JWT for authentication, bcrypt for password encryption, and Razorpay for payments.
-- **Frontend:** React.js.
+- **Backend:** Node.js, Express.js, MySQL, Sequelize ORM, JWT for authentication, bcrypt for password encryption, web sockets for real-time communication and AWS S3 for file storage.
+- **Frontend:** React.js , Tailwind Css.
 
 ## Setup and Installation
 
